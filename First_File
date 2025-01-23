@@ -1,5 +1,5 @@
-Console.WriteLine("Calculus & Geometry");
-Console.WriteLine("Programming");
-Console.WriteLine("Applied Physics");
-Console.WriteLine("Iformation & Technology Skills");
+Console.WriteLine("Discrete");
+Console.WriteLine("System Development Life Cycle");
+Console.WriteLine("English");
+Console.WriteLine("Sonftware Configuration");
 Console.WriteLine("Islamiat");
