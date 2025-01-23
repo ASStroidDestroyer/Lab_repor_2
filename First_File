@@ -1,2 +1,6 @@
-Console.WriteLine("My Name is Muhammad Ibraheem Tahir");
-Console.WriteLine("My Roll Number is 019");
+Console.WriteLine("English");
+Console.WriteLine("Urdu");
+Console.WriteLine("Maths");
+Console.WriteLine("Computer");
+Console.WriteLine("Physics");
+Console.WriteLine("Tarjuma-Tul-Quran");
