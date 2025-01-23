@@ -1,2 +1,5 @@
-Console.WriteLine("My Name is Muhammad Ibraheem Tahir");
-Console.WriteLine("My Roll Number is 019");
+Console.WriteLine("Discrete");
+Console.WriteLine("System Development Life Cycle");
+Console.WriteLine("English");
+Console.WriteLine("Sonftware Configuration");
+Console.WriteLine("Islamiat");
