@@ -1,6 +1,5 @@
-Console.WriteLine("English");
-Console.WriteLine("Urdu");
-Console.WriteLine("Maths");
-Console.WriteLine("Computer");
-Console.WriteLine("Physics");
-Console.WriteLine("Tarjuma-Tul-Quran");
+Console.WriteLine("Calculus & Geometry");
+Console.WriteLine("Programming");
+Console.WriteLine("Applied Physics");
+Console.WriteLine("Iformation & Technology Skills");
+Console.WriteLine("Islamiat");
